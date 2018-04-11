@@ -1,0 +1,19 @@
+{
+  "name": "gif-bot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Lukas",
+  "dependencies": {
+    "winston": "^2.4.1",
+    "express": "^4.16.3",
+    "eris": "^0.8.5",
+    "request": "^2.85.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
